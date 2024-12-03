@@ -7,7 +7,7 @@
       "type": "chrome",
       "request": "launch",
       "preLaunchTask": "npm: start",
-      "url": " https://prashanth550.github.io/Prashanth-Reddy/"
+      "url": "http://localhost:4200/"
     },
     {
       "name": "ng test",
